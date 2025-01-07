@@ -1,0 +1,327 @@
+[
+  {
+    "id": "Crane_frontal_01",
+    "name": "Os Frontal",
+    "image": "/images/Squelette_Axial/Crane_frontal_01.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Crane_parietal_02",
+    "name": "Os Pariétal",
+    "image": "/images/Squelette_Axial/Crane_parietal_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Crane_temporal_02",
+    "name": "Os Temporal",
+    "image": "/images/Squelette_Axial/Crane_temporal_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Crane_occipital_01",
+    "name": "Os Occipital",
+    "image": "/images/Squelette_Axial/Crane_occipital_01.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Crane_sphenoide_01",
+    "name": "Os Sphénoïde",
+    "image": "/images/Squelette_Axial/Crane_sphenoide_01.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Crane_ethmoide_01",
+    "name": "Os Ethmoïde",
+    "image": "/images/Squelette_Axial/Crane_ethmoide_01.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Oreille_marteau_02",
+    "name": "Os Marteau",
+    "image": "/images/Squelette_Axial/Oreille_Marteau_02.jpg",
+    "alternatives": []
+  },
+  {
+    "id": "Oreille_enclume_02",
+    "name": "Os Enclume",
+    "image": "/images/Squelette_Axial/Oreille_Enclume_02.png",
+    "alternatives": []
+  },
+  {
+    "id": "Oreille_etrier_02",
+    "name": "Os Étrier",
+    "image": "/images/Squelette_Axial/Oreille_Etrier_02.png",
+    "alternatives": []
+  },
+  {
+    "id": "Face_Vomer_01",
+    "name": "Os Vomer",
+    "image": "/images/Squelette_Axial/Face_Vomer_01.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Face_Maxillaire_02",
+    "name": "Os Maxillaire",
+    "image": "/images/Squelette_Axial/Face_Maxillaire_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Face_Lacrymal_02",
+    "name": "Os Lacrymal",
+    "image": "/images/Squelette_Axial/Face_Lacrymal_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Face_Palatin_02",
+    "name": "Os Palatin",
+    "image": "/images/Squelette_Axial/Face_Palatin_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Face_Cornet_Nasal_inf_02",
+    "name": "Cornet Nasal Inférieur",
+    "image": "/images/Squelette_Axial/Face_Cornet_Nasal_inf_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Face_Nasal_02",
+    "name": "Os Nasal",
+    "image": "/images/Squelette_Axial/Face_Nasal_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Face_Zygomatique_02",
+    "name": "Os Zygomatique",
+    "image": "/images/Squelette_Axial/Face_Zygomatique_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Face_Mandibule_01",
+    "name": "Os Mandibule",
+    "image": "/images/Squelette_Axial/Face_Mandibule_01.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Cou_Vertebre_Cervicales_07",
+    "name": "Vertèbres Cervicales",
+    "image": "/images/Squelette_Axial/Cou_Vertebre_Cervicale_07.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Cou_Hyoide_01",
+    "name": "Os Hyoïde",
+    "image": "/images/Squelette_Axial/Cou_Hyoide_01.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Thorax_Vertebres_Thoraciques_12",
+    "name": "Vertèbres Thoraciques",
+    "image": "/images/Squelette_Axial/Thorax_Vertebre_Thoracique_12.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Thorax_Cotes_12",
+    "name": "Côtes",
+    "image": "/images/Squelette_Axial/Thorax_Cotes_12.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Thorax_Sternum_01",
+    "name": "Sternum",
+    "image": "/images/Squelette_Axial/Thorax_Sternum_01.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Abdomen_Lombaires_05",
+    "name": "Vertèbres Lombaires",
+    "image": "/images/Squelette_Axial/Abdomen_Vertebre_Lombaire_05.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Bassin_Coccyx_01",
+    "name": "Coccyx",
+    "image": "/images/Squelette_Axial/Bassin_Coccyx_01.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Bassin_Sacrum_01",
+    "name": "Sacrum",
+    "image": "/images/Squelette_Axial/Bassin_Sacrum_01.gif",
+    "alternatives": []
+  },
+
+  {
+    "id": "Ceinture_Scapulaire_Omoplate_02",
+    "name": "Omoplate",
+    "image": "/images/Squelette_Appendiculaire/Ceinture_Scapulaire_Omoplate_02.png",
+    "alternatives": []
+  },
+  {
+    "id": "Ceinture_Scapulaire_Clavicule_02",
+    "name": "Clavicule",
+    "image": "/images/Squelette_Appendiculaire/Ceinture_Scapulaire_Clavicule_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Ceinture_Scapulaire_Manubrium_Sternal_01",
+    "name": "Manubrium Sternal",
+    "image": "/images/Squelette_Appendiculaire/Ceinture_Scapulaire_Manubrium_Sternal_01.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Bras_Humerus_02",
+    "name": "Humérus",
+    "image": "/images/Squelette_Appendiculaire/Bras_Humerus_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Bras_Radius_02",
+    "name": "Radius",
+    "image": "/images/Squelette_Appendiculaire/Bras_Radius_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Bras_Ulna_02",
+    "name": "Ulna (Cubitus)",
+    "image": "/images/Squelette_Appendiculaire/Bras_Ulna_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Poignet_Scaphoide_02",
+    "name": "Scaphoïde",
+    "image": "/images/Squelette_Appendiculaire/Poignet_Scaphoide_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Poignet_Lunatum_02",
+    "name": "Lunatum",
+    "image": "/images/Squelette_Appendiculaire/Poignet_Lunatum_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Poignet_Triquetrum_02",
+    "name": "Triquetrum",
+    "image": "/images/Squelette_Appendiculaire/Poignet_Triquetrum_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Poignet_Pisiforme_02",
+    "name": "Pisiforme",
+    "image": "/images/Squelette_Appendiculaire/Poignet_Pisiforme_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Poignet_Trapeze_02",
+    "name": "Trapèze",
+    "image": "/images/Squelette_Appendiculaire/Poignet_Trapeze_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Poignet_Trapezoide_02",
+    "name": "Trapézoïde",
+    "image": "/images/Squelette_Appendiculaire/Poignet_Trapezoide_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Poignet_Capitatum_02",
+    "name": "Capitatum",
+    "image": "/images/Squelette_Appendiculaire/Poignet_Capitatum_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Poignet_Hamatum_02",
+    "name": "Hamatum",
+    "image": "/images/Squelette_Appendiculaire/Poignet_Hamatum_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Main_Metacarpiens_10",
+    "name": "Métacarpiens",
+    "image": "/images/Squelette_Appendiculaire/Main_Metacarpien_10.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Main_Phalanges_28",
+    "name": "Phalanges",
+    "image": "/images/Squelette_Appendiculaire/Main_Phalange_28.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Ceinture_Pelvienne_Coxal_01",
+    "name": "Coxal",
+    "image": "/images/Squelette_Appendiculaire/Ceinture_Pelvienne_Coxal_01.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Ceinture_Pelvienne_Ilium_02",
+    "name": "Ilium",
+    "image": "/images/Squelette_Appendiculaire/Ceinture_Pelvienne_Ilium_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Ceinture_Pelvienne_Pubis_02",
+    "name": "Pubis",
+    "image": "/images/Squelette_Appendiculaire/Ceinture_Pelvienne_Pubis_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Cuisse_Femur_02",
+    "name": "Fémur",
+    "image": "/images/Squelette_Appendiculaire/Cuisse_Femur_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Cuisse_Patella_02",
+    "name": "Patella",
+    "image": "/images/Squelette_Appendiculaire/Cuisse_Patella_02.jpg",
+    "alternatives": []
+  },
+  {
+    "id": "Jambe_Tibia_02",
+    "name": "Tibia",
+    "image": "/images/Squelette_Appendiculaire/Jambe_Tibia_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Jambe_Fibula_02",
+    "name": "Fibula",
+    "image": "/images/Squelette_Appendiculaire/Jambe_Fibula_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Pied_Calcaneus_02",
+    "name": "Calcanéus",
+    "image": "/images/Squelette_Appendiculaire/Pied_Calcaneus_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Pied_Talus_02",
+    "name": "Talus",
+    "image": "/images/Squelette_Appendiculaire/Pied_Talus_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Pied_Cuboide_02",
+    "name": "Cuboïde",
+    "image": "/images/Squelette_Appendiculaire/Pied_Cuboide_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Pied_Naviculaire_02",
+    "name": "Naviculaire",
+    "image": "/images/Squelette_Appendiculaire/Pied_Naviculaire_02.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Pied_Cuneiforme_06",
+    "name": "Cunéiformes",
+    "image": "/images/Squelette_Appendiculaire/Pied_Cuneiforme_06.gif",
+    "alternatives": []
+  },
+  {
+    "id": "Pied_Metatarsien_10",
+    "name": "Métatarsiens",
+    "image": "/images/Squelette_Appendiculaire/Pied_Metatarsien_10.gif",
+    "alternatives": []
+  }
+]
