@@ -2,37 +2,37 @@
   {
     "id": "Crane_frontal_01",
     "name": "Os Frontal",
-    "image": "/images/Squelette_Axial/Crane_frontal_01.gif",
+    "image": "/images/Squelette_Axial/Crane_Frontal_01.gif",
     "alternatives": []
   },
   {
     "id": "Crane_parietal_02",
     "name": "Os Pariétal",
-    "image": "/images/Squelette_Axial/Crane_parietal_02.gif",
+    "image": "/images/Squelette_Axial/Crane_Parietal_02.gif",
     "alternatives": []
   },
   {
     "id": "Crane_temporal_02",
     "name": "Os Temporal",
-    "image": "/images/Squelette_Axial/Crane_temporal_02.gif",
+    "image": "/images/Squelette_Axial/Crane_Temporal_02.gif",
     "alternatives": []
   },
   {
     "id": "Crane_occipital_01",
     "name": "Os Occipital",
-    "image": "/images/Squelette_Axial/Crane_occipital_01.gif",
+    "image": "/images/Squelette_Axial/Crane_Occipital_01.gif",
     "alternatives": []
   },
   {
     "id": "Crane_sphenoide_01",
     "name": "Os Sphénoïde",
-    "image": "/images/Squelette_Axial/Crane_sphenoide_01.gif",
+    "image": "/images/Squelette_Axial/Crane_Sphenoide_01.gif",
     "alternatives": []
   },
   {
     "id": "Crane_ethmoide_01",
     "name": "Os Ethmoïde",
-    "image": "/images/Squelette_Axial/Crane_ethmoide_01.gif",
+    "image": "/images/Squelette_Axial/Crane_Ethmoide_01.gif",
     "alternatives": []
   },
   {
@@ -80,7 +80,7 @@
   {
     "id": "Face_Cornet_Nasal_inf_02",
     "name": "Cornet Nasal Inférieur",
-    "image": "/images/Squelette_Axial/Face_Cornet_Nasal_inf_02.gif",
+    "image": "/images/Squelette_Axial/Face_Cornet_Nasal_Inf_02.gif",
     "alternatives": []
   },
   {
